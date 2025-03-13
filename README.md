@@ -174,11 +174,11 @@ __Don't forget to enable ReActor and set any source (to prevent "no source" erro
 - **ComfyUI [support](https://github.com/Gourieff/ComfyUI-ReActor)**
 - **Mac M1/M2 [support](https://github.com/Gourieff/sd-webui-reactor/issues/42)**
 - Console **log level control**
-- **NSFW filter free** (this extension is aimed at highly developed intellectual people, not at perverts; our society must be oriented on its way towards the highest standards, not the lowest - this is the essence of development and evolution; so, my position is - that mature-minded people are clever enough to understand for themselves what is good and what is bad and take full responsibility for personal actions; for others - no "filters" will help until they do understand how Universe works)
+- **NSFW filter free** (this extension is aimed at ~~highly developed intellectual people, not at perverts; our society must be oriented on its way towards the highest standards, not the lowest - this is the essence of development and evolution; so, my position is - that mature-minded people are clever enough to understand for themselves what is good and what is bad and take full responsibility for personal actions; for others - no "filters" will help until they do understand how Universe works~~ Nuh this one is free and open source for everyone. You can do whatever you want. But remember great power comes with great responsibility. And you should take responsibility for what you do. I am not responsible for anything you do. Goodluck and have fun. Peace.)
 
 ## Usage
 
-> Using this software you are agree with [disclaimer](#disclaimer)
+> Using this software you agree with [disclaimer](#disclaimer)
 
 1. Under "ReActor" drop-down menu, import an image containing a face;
 2. Turn on the "Enable" checkbox;
