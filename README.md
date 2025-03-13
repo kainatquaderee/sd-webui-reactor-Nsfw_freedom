@@ -24,7 +24,7 @@
 
 # ReActor for Stable Diffusion
 
-### The Fast and Simple FaceSwap Extension with a lot of improvements and with ~~NSFW filter~~ no NSFW filter("Freedom IS peace. Oh, no. It's an invitation to chaos") (~~it has a nudity detector to avoid using this software with 18+ content~~ It has nothing like that. You are free and You gotta take responsibility for what you do.)
+### The Fast and Simple FaceSwap Extension with a lot of improvements and with ~~NSFW filter~~ no NSFW filter("Freedom IS peace."-Connor "Oh, no. It's an invitation to chaos"-Haytham(credit @Assassin's Creed III)) (~~it has a nudity detector to avoid using this software with 18+ content~~ It has nothing like that. You are free and You gotta take responsibility for what you do.)
 
 > By using this Node you accept and assume [responsibility](#disclaimer)) 
 
