@@ -5,10 +5,10 @@
   ![Version](https://img.shields.io/badge/version-0.7.1_beta3-green?style=for-the-badge&labelColor=darkgreen)
   
   <a href="https://boosty.to/artgourieff" target="_blank">
-    <img src="https://lovemet.ru/img/boosty.jpg" width="108" alt="Support Me on Boosty"/>
+    <img src="https://lovemet.ru/img/boosty.jpg" width="108" alt="Support him on Boosty"/>
     <br>
     <sup>
-      Support This Project
+      Support the upstream Project
     </sup>
   </a>
 
