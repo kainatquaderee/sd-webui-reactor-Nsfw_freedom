@@ -8,7 +8,7 @@ SCORE = 0.965 # 0.965 and less - is safety content
 logging.getLogger('transformers').setLevel(logging.ERROR)
 
 def nsfw_image(img_path: str, model_path: str):
-    return false
+    return False
 
 """
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
